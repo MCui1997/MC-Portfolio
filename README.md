@@ -1,7 +1,5 @@
 # Welcome to My Portfolio
 
-Hi, my name is <span>Michael Cui</span>. I have a background in Software Development at General Motors with a passion for cybersecurity and fintech. I'm seeking to transition my technical background into a focus on cybersecurity of digital currencies in the future.
-
-Please take a look at my recent works at the link down below:
+Hi, my name is Michael Cui. I am currently a Software Developer at General Motors with a passion for cybersecurity and fintech. I aim to utilize my technical knowledge and passion for security to innovate the systems of the future. Please check out some of my latest works below!
 
 https://michaelbcui.com
